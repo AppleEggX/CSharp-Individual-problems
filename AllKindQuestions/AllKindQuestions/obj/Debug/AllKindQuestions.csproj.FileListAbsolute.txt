@@ -1,0 +1,6 @@
+D:\Coding\C#\AllKindQuestions\AllKindQuestions\bin\Debug\AllKindQuestions.exe.config
+D:\Coding\C#\AllKindQuestions\AllKindQuestions\bin\Debug\AllKindQuestions.exe
+D:\Coding\C#\AllKindQuestions\AllKindQuestions\bin\Debug\AllKindQuestions.pdb
+D:\Coding\C#\AllKindQuestions\AllKindQuestions\obj\Debug\AllKindQuestions.csprojAssemblyReference.cache
+D:\Coding\C#\AllKindQuestions\AllKindQuestions\obj\Debug\AllKindQuestions.exe
+D:\Coding\C#\AllKindQuestions\AllKindQuestions\obj\Debug\AllKindQuestions.pdb

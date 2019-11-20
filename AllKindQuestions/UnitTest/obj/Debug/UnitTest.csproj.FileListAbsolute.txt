@@ -1,0 +1,12 @@
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\UnitTest.dll
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\UnitTest.pdb
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\AllKindQuestions.exe
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\nunit.framework.dll
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\AllKindQuestions.pdb
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\AllKindQuestions.exe.config
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\nunit.framework.pdb
+D:\Coding\C#\AllKindQuestions\UnitTest\bin\Debug\nunit.framework.xml
+D:\Coding\C#\AllKindQuestions\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\Coding\C#\AllKindQuestions\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\Coding\C#\AllKindQuestions\UnitTest\obj\Debug\UnitTest.dll
+D:\Coding\C#\AllKindQuestions\UnitTest\obj\Debug\UnitTest.pdb
